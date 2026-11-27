@@ -1,6 +1,5 @@
 <<<<<<< HEAD
 # AI-code-review
-# AI-code-review
 # Backend
 # AI-code-review-Assistance
 =======
