@@ -1,5 +1,3 @@
-=======
-
 # 🤖 AI Code Review Assistant
 
 An AI-powered Code Review Assistant that analyzes source code and generates intelligent code review feedback using Google's Gemini API.
