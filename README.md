@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# AI-code-review
-# Backend
-# AI-code-review-Assistance
 =======
 
 # 🤖 AI Code Review Assistant
